@@ -107,7 +107,6 @@
   - [The Complete Python Course For Beginners](https://www.youtube.com/watch?v=sxTmJE4k0ho)
   - [Think Python: How to Think Like a Computer Scientist](http://www.greenteapress.com/thinkpython/)
   - [Python Notes for Professionals book](http://books.goalkicker.com/PythonBook/)
-  - [🐍 30 Days Of Python](https://github.com/Asabeneh/30-Days-Of-Python)
     
 ###@ Practice
   - [Codewars](http://www.codewars.com/)
@@ -352,21 +351,18 @@
 
 #### Tutorials
 
-- [1000 Data Science Projects](https://cloud.blobcity.com/#/ps/explore) you can run on the browser with IPython.
 - [#tidytuesday](https://github.com/rfordatascience/tidytuesday) A weekly data project aimed at the R ecosystem.
 - [Data science your way](https://github.com/jadianes/data-science-your-way)
 - [PySpark Cheatsheet](https://github.com/kevinschaich/pyspark-cheatsheet)
 - [Machine Learning, Data Science and Deep Learning with Python ](https://www.manning.com/livevideo/machine-learning-data-science-and-deep-learning-with-python)
 - [How To Label Data](https://www.lighttag.io/how-to-label-data/)
 - [Your Guide to Latent Dirichlet Allocation](https://medium.com/@lettier/how-does-lda-work-ill-explain-using-emoji-108abf40fa7d)
-- [Over 1000 Data Science Online Courses at Classpert Online Search Engine](https://classpert.com/search/data-science)
 - [Tutorials of source code from the book Genetic Algorithms with Python by Clinton Sheppard](https://github.com/handcraftsman/GeneticAlgorithmsWithPython)
 - [Tutorials to get started on signal processing for machine learning](https://github.com/jinglescode/python-signal-processing)
 - [Realtime deployment](https://www.microprediction.com/python-1) Tutorial on Python time-series model deployment.
 - [Python for Data Science: A Beginner’s Guide](https://learntocodewith.me/posts/python-for-data-science/)
 - [Minimum Viable Study Plan for Machine Learning Interviews](https://github.com/khangich/machine-learning-interview)
 - [Understand and Know Machine Learning Engineering by Building Solid Projects](http://mlzoomcamp.com/)
-- [12 free Data Science projects to practice Python and Pandas](https://www.datawars.io/articles/12-free-data-science-projects-to-practice-python-and-pandas)
 
 #### Free Courses
 
@@ -381,20 +377,8 @@
 - [Python for Machine Learning](https://globalaihub.com/courses/introduction-to-python-the-road-to-machine-learning/) - Start your journey to machine learning with Python, one of the most powerful programming languages.
 - [Python for Data Science by Scaler](https://www.scaler.com/topics/course/python-for-data-science/) - This course is designed to empower beginners with the essential skills to excel in today's data-driven world. The comprehensive curriculum will give you a solid foundation in statistics, programming, data visualization, and machine learning.
 - [MLSys-NYU-2022](https://github.com/jacopotagliabue/MLSys-NYU-2022/tree/main) - Slides, scripts and materials for the Machine Learning in Finance course at NYU Tandon, 2022.
-
 - https://www.prepvector.com/course/data-science
 - https://maven.com/prepvector/ml-projects
-
-#### GitHub Repositories
-- https://github.com/Mohitkr95/Best-Data-Science-Resources?tab=readme-ov-file
-- https://daya6489.github.io/Data-Science-Resources/
-- https://github.com/dipakkr/A-to-Z-Resources-for-Students
-- https://github.com/ahmedbahaaeldin/From-0-to-Research-Scientist-resources-guide
-- https://github.com/luspr/awesome-ml-courses
-- https://github.com/tirthajyoti/Data-science-best-resources
-- https://github.com/datascienceid/machine-learning-resources
-- https://github.com/dair-ai/ML-YouTube-Courses
-- https://deep-learning-drizzle.github.io/index.html
 
 #### Blogs
 - https://www.datasource.ai/
@@ -427,12 +411,7 @@
 ## MLOps
 
 #### GitHub repositories
-- https://github.com/graviraja/MLOps-Basics
 - https://mlops-guide.github.io/
-- https://github.com/visenger/awesome-mlops
-- https://github.com/SkafteNicki/dtu_mlops
-- https://github.com/GokuMohandas/mlops-course
-- https://github.com/kelvins/awesome-mlops
 
 #### Blogs and Guides
 
