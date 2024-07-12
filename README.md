@@ -498,5 +498,10 @@ Machine Learning:
 
   
 ## A/B Testing
+### Courses and articles
 - https://www.prepvector.com/course/data-science
 - https://www.udacity.com/course/ab-testing--ud257
+- https://www.seldon.io/a-b-testing-for-machine-learning
+- https://mlops.community/the-what-why-and-how-of-a-b-testing-in-ml/
+- https://medium.com/@weidagang/demystifying-a-b-testing-in-machine-learning-a923fe07018d
+- https://censius.ai/blogs/how-to-conduct-a-b-testing-in-machine-learning
